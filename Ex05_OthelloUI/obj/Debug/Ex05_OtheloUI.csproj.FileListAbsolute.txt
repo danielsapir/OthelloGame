@@ -1,0 +1,9 @@
+C:\Users\danie\Desktop\Projects\C# and .NET\Othello\Winforms\Ex05_OthelloUI\bin\Debug\Ex05_OthelloUI.exe
+C:\Users\danie\Desktop\Projects\C# and .NET\Othello\Winforms\Ex05_OthelloUI\bin\Debug\Ex05_OthelloUI.pdb
+C:\Users\danie\Desktop\Projects\C# and .NET\Othello\Winforms\Ex05_OthelloUI\bin\Debug\Ex02_Othelo.dll
+C:\Users\danie\Desktop\Projects\C# and .NET\Othello\Winforms\Ex05_OthelloUI\bin\Debug\Ex02_Othelo.pdb
+C:\Users\danie\Desktop\Projects\C# and .NET\Othello\Winforms\Ex05_OthelloUI\obj\Debug\Ex05_OtheloUI.csprojResolveAssemblyReference.cache
+C:\Users\danie\Desktop\Projects\C# and .NET\Othello\Winforms\Ex05_OthelloUI\obj\Debug\Ex05_OtheloUI.GameSettingsForm.resources
+C:\Users\danie\Desktop\Projects\C# and .NET\Othello\Winforms\Ex05_OthelloUI\obj\Debug\Ex05_OtheloUI.csproj.GenerateResource.Cache
+C:\Users\danie\Desktop\Projects\C# and .NET\Othello\Winforms\Ex05_OthelloUI\obj\Debug\Ex05_OthelloUI.exe
+C:\Users\danie\Desktop\Projects\C# and .NET\Othello\Winforms\Ex05_OthelloUI\obj\Debug\Ex05_OthelloUI.pdb

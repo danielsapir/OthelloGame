@@ -1,0 +1,6 @@
+C:\Users\danie\Desktop\Projects\C# and .NET\Othello\Winforms\Ex02_Othelo\bin\Debug\Ex02_Othelo.dll.config
+C:\Users\danie\Desktop\Projects\C# and .NET\Othello\Winforms\Ex02_Othelo\bin\Debug\Ex02_Othelo.dll
+C:\Users\danie\Desktop\Projects\C# and .NET\Othello\Winforms\Ex02_Othelo\bin\Debug\Ex02_Othelo.pdb
+C:\Users\danie\Desktop\Projects\C# and .NET\Othello\Winforms\Ex02_Othelo\obj\Debug\Ex05_Othelo.csprojResolveAssemblyReference.cache
+C:\Users\danie\Desktop\Projects\C# and .NET\Othello\Winforms\Ex02_Othelo\obj\Debug\Ex02_Othelo.dll
+C:\Users\danie\Desktop\Projects\C# and .NET\Othello\Winforms\Ex02_Othelo\obj\Debug\Ex02_Othelo.pdb
